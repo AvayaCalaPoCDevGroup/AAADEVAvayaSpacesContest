@@ -1,0 +1,182 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 26, 2020, 2:14:27 PM
+    Author     : umansilla
+*/
+/* ZOOM 100% */
+@media only screen and (max-width: 1600px) {
+    /* For mobile phones: */
+    .w3-container{
+        /*background-color: violet;*/
+    }
+    .textQuestion{
+        height: 150px !important;
+        margin-top: 15px !important;
+    }
+    .rowAB{
+
+    }
+    .rowCD{
+
+    }
+    #canvasRow{
+        margin-bottom: 10px;
+    }
+
+}
+/* ZOOM 90% */
+@media only screen and (min-width: 1700px) { 
+    .w3-container{
+
+    }
+    #canvasRow{
+        margin-bottom: 35px;
+    }
+    .TimeCircle{
+        height: 175px !important;
+        width: 175px !important;
+    }
+    .PointsCircle{
+        height: 175px !important;
+        width: 175px !important;
+    }
+    .imageDIV{
+        width: 400px !important;
+        height: 350px !important;
+    }
+    #textImageView{
+        max-width: 400px !important;
+        max-height: 350px !important;
+    }
+    .rowAB{
+        margin-top: 5px;
+        height: 110px !important;
+    }
+    .rowCD{
+        height: 110px !important;
+    }
+    .textQuestion{
+        height: 150px !important;
+        margin-top: 15px !important;
+    }
+    #textOptnAView{
+        font-size: 2vw !important; 
+    }
+    #textOptnBView{
+        font-size: 2vw !important; 
+    }
+    #textOptnCView{
+        font-size: 2.1vw !important; 
+    }
+    #textOptnDView{
+        font-size: 2.1vw !important; 
+    }
+}
+/* ZOOM 80% */
+@media only screen and (min-width: 1800px) { 
+    .w3-container{
+
+    }
+    #canvasRow{
+        margin-bottom: 47px;
+    }
+    .TimeCircle{
+        height: 200px !important;
+        width: 200px !important;
+    }
+    .PointsCircle{
+        height: 200px !important;
+        width: 200px !important;
+    }
+    .imageDIV{
+        width: 450px !important;
+        height: 400px !important;
+    }
+    #imageViewPrincipal{
+        margin-top: 15px !important;
+    }
+    #textImageView{
+        max-width: 450px !important;
+        max-height: 400px !important;
+    }
+    .rowAB{
+        margin-top: 5px;
+        height: 125px !important;
+    }
+    .rowCD{
+        height: 125px !important;
+    }
+    .textQuestion{
+        height: 170px !important;
+        margin-top: 15px !important;
+    }
+    #textOptnAView{
+        font-size: 2vw !important; 
+    }
+    #textOptnBView{
+        font-size: 2vw !important; 
+    }
+    #textOptnCView{
+        font-size: 2.1vw !important; 
+    }
+    #textOptnDView{
+        font-size: 2.1vw !important; 
+    }
+}
+/* ZOOM 75% */
+@media only screen and (min-width: 1950px) { 
+    .w3-container{
+
+    }
+    #canvasRow{
+        margin-bottom: 71px;
+    }
+    .TimeCircle{
+        height: 225px !important;
+        width: 225px !important;
+    }
+    .PointsCircle{
+        height: 225px !important;
+        width: 225px !important;
+    }
+    .imageDIV{
+        width: 500px !important;
+        height: 450px !important;
+    }
+
+    #textImageView{
+        max-width: 500px !important;
+        max-height: 450px !important;
+    }
+    #imageViewPrincipal{
+        margin-top: 15px !important;
+    }
+    .rowAB{
+        margin-top: 5px;
+        height: 130px !important;
+    }
+    .rowCD{
+        height: 130px !important;
+    }
+    .textQuestion{
+        height: 170px !important;
+        margin-top: 15px !important;
+    }
+    #textOptnAView{
+        font-size: 2vw !important; 
+    }
+    #textOptnBView{
+        font-size: 2vw !important; 
+    }
+    #textOptnCView{
+        font-size: 2.1vw !important; 
+    }
+    #textOptnDView{
+        font-size: 2.1vw !important; 
+    }
+
+}

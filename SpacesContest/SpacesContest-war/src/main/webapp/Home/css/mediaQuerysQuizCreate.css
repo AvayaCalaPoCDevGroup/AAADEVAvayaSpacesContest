@@ -1,0 +1,250 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 23, 2020, 3:32:58 AM
+    Author     : umansilla
+/* ZOOM 100% */
+@media only screen and (max-width: 1600px) {
+    /* For mobile phones: */
+/*    body{
+
+    }*/
+    .colab{
+        margin-top: 5px;
+    }
+    .colcd{
+        margin-top: 5px;
+    }
+    .rowA{
+        height: 85px;
+    }
+    .optionAText{
+        height: 70px !important;
+        font-size: 1.2vW !important;
+    }
+    span.text-center d-lg-flex justify-content-lg-center align-items-lg-center{
+
+    }
+    .rowB{
+        height: 70px;
+    }
+    .optionBText{
+        height: 57px !important;
+        font-size: 1.2vW !important;
+    }
+    .rowC{
+        height: 70px;
+    }
+    .optionCText{
+        height: 56px !important;
+        font-size: 1.2vW !important;
+    }
+    .rowD{
+        height: 70px;
+    }
+    .optionDText{
+        height: 56px !important;
+        font-size: 1.2vW !important;
+    }
+    /*
+    OVERLAY
+    */
+    .OptionAOverlayDiv{
+
+    }
+    .OptionBOverlayDiv{
+
+    }
+    .OptionCOverlayDiv{
+
+    }
+    .OptionDOverlayDiv{
+
+    }
+    /*
+    Droop REgion
+    */
+    .drop-region{
+        
+    }
+}
+/* ZOOM 90% */
+@media only screen and (min-width: 1700px) { 
+/*    body{
+        background-color: blue;
+    }*/
+    .colab{
+        margin-top: 5px;
+    }
+
+    .colcd{
+        margin-top: 5px;
+    }
+    .rowA{
+        height: 110px;
+    }
+    .optionAText{
+        height: 80px !important;
+        font-size:  1.2vW !important;
+    }
+    span.text-center d-lg-flex justify-content-lg-center align-items-lg-center{
+
+    }
+    .rowB{
+        height: 120px;
+    }
+    .optionBText{
+        height: 80px !important;
+        font-size: 1.2vW !important;
+    }
+    .rowC{
+        height: 120px;
+    }
+    .optionCText{
+        height: 80px !important;
+        font-size:  1.2vW  !important;
+    }
+    .rowD{
+        height: 120px;
+    }
+    .optionDText{
+        height: 80px !important;
+        font-size:  1.2vW  !important;
+    }
+    /*
+    Overlay
+    */
+    .OptionAOverlayDiv{
+        height: 125px;
+    }
+    .OptionBOverlayDiv{
+        height: 125px;
+    }
+    .OptionCOverlayDiv{
+        height: 125px;
+    }
+    .OptionDOverlayDiv{
+        height: 125px;
+    }
+}
+/* ZOOM 80% */
+@media only screen and (min-width: 1800px) { 
+/*    body{
+        background-color: green;
+    }*/
+    .questionInput{
+        height: 130px !important;
+    }
+    .colab{
+        margin-top: 10px;
+    }
+
+    .colcd{
+        margin-top: 10px;
+    }
+    .slideshow-container{
+        max-width: 100% !important;
+    }
+    .rowA{
+        height: 150px;
+    }
+    .optionAText{
+        height: 120px !important;
+        font-size: 1.4vW !important;
+    }
+    span.text-center d-lg-flex justify-content-lg-center align-items-lg-center{
+
+    }
+    .rowB{
+        height: 130px;
+    }
+    .optionBText{
+        height: 120px !important;
+        font-size: 1.4vW !important;
+    }
+    .rowC{
+        height: 130px;
+    }
+    .optionCText{
+        height: 120px !important;
+        font-size: 1.4vW !important;
+    }
+    .rowD{
+        height: 130px;
+    }
+    .optionDText{
+        height: 120px !important;
+        font-size: 1.4vW !important;
+    }
+
+    /*
+    Overlay
+    */
+    .QuestionOverlayInput{
+        height: 200px !important;
+    }
+    .rowOverlayOptions{
+        margin-top: 45px !important;
+    }
+
+}
+/* ZOOM 80% */
+@media only screen and (min-width: 1950px) { 
+/*    body{
+        background-color: red;
+    }*/
+    .questionInput{
+        height: 130px !important;
+    }
+    .colab{
+        margin-top: 10px;
+    }
+
+    .colcd{
+        margin-top: 10px;
+    }
+    .slideshow-container{
+        max-width: 100% !important;
+    }
+    .rowA{
+        height: 180px;
+    }
+    .optionAText{
+        height: 150px !important;
+        font-size: 1.5vW !important;
+    }
+    span.text-center d-lg-flex justify-content-lg-center align-items-lg-center{
+
+    }
+    .rowB{
+        height: 130px;
+    }
+    .optionBText{
+        height: 150px !important;
+        font-size: 1.5vW !important;
+    }
+    .rowC{
+        height: 130px;
+    }
+    .optionCText{
+        height: 150px !important;
+        font-size: 1.5vW !important;
+    }
+    .rowD{
+        height: 130px;
+    }
+    .optionDText{
+        height: 150px !important;
+        font-size: 1.5vW !important;
+    }
+    /*
+    Overlay
+    */
+    .rowOverlayOptions{
+        margin-top: 105px !important;
+    }
+
+}

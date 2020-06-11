@@ -1,0 +1,24 @@
+.createQuestion:hover {
+  background-color: green;
+  color: white;
+}
+
+.uploadFile:hover {
+  background-color: #f44611;
+  color: white;
+}
+
+.fullScreen:hover {
+  background-color: blue;
+  color: white;
+}
+
+.deleteQuiz:hover {
+  background-color: red;
+  color: white;
+}
+
+.slidevertical {
+  width: 0px;
+}
+
